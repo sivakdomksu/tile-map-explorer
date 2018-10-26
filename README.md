@@ -22,3 +22,5 @@ Which will serve a locally-hosted webpage at http://localhost:8080.  Alternative
 `
 $ npm run build
 `
+
+The resulting files in the dist folder can then be served using a webserver of your choice.
