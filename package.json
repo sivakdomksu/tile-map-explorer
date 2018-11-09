@@ -11,6 +11,9 @@
   "author": "Nathan H. Bean",
   "license": "MIT",
   "devDependencies": {
+    "@types/node": "^10.12.2",
+    "ts-loader": "^5.3.0",
+    "typescript": "^3.1.6",
     "webpack": "^4.19.1",
     "webpack-cli": "^3.1.0",
     "webpack-dev-server": "^3.1.8"
